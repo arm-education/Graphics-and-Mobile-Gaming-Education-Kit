@@ -21,6 +21,26 @@ Our Graphics and Mobile Gaming Education Kit covers the fundamentals of video ga
 * Lab manuals with project code and solutions. All software tools needed in this kit are available free of charge. Some labs work best on an Android-based Mali GPU-powered smart device. Lab code and assets are currently unavailable - we will work to have them available as soon as possible.
 * **Prerequisites:** Basic understanding of C++/Java programming
 
+## Tools Used
+
+The lab exercises in this course can be run on Windows 10 and have been developed and tested using the hardware and software listed below. If you use alternatives, you may need to make adjustments to ensure the labs run successfully.
+
+Hardware:
+- Mobile device with Arm processor and with Arm Mali GPU
+ - Mali Bifrost – G31, G51, G52, G71, G72, G76
+ - Mali Midgard
+ - Mali Udgard
+
+Software:
+- Arm Mobile Development Studio
+ - Streamline version 7.0.0
+ - Graphics Analyzer version 5.3.0.8
+- Android Studio
+- Unity personal edition - 2019.3.2f1 or 2020.1.0a24
+- Android SDK & NDK 
+- Open JDK
+- OpenGL ES 2.0
+
 ## Course Aim
 To enable students to create their own 3D games on mobile devices through the teaching of graphics and gaming fundamentals and hands-on practice using professional graphics API and game engines
 
