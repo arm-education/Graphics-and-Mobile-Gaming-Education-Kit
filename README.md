@@ -27,14 +27,14 @@ The lab exercises in this course can be run on Windows 10 and have been develope
 
 Hardware:
 - Mobile device with Arm processor and with Arm Mali GPU
- - Mali Bifrost – G31, G51, G52, G71, G72, G76
- - Mali Midgard
- - Mali Udgard
+  - Mali Bifrost – G31, G51, G52, G71, G72, G76
+  - Mali Midgard
+  - Mali Udgard
 
 Software:
 - Arm Mobile Development Studio
- - Streamline version 7.0.0
- - Graphics Analyzer version 5.3.0.8
+  - Streamline version 7.0.0
+  - Graphics Analyzer version 5.3.0.8
 - Android Studio
 - Unity personal edition - 2019.3.2f1 or 2020.1.0a24
 - Android SDK & NDK 
